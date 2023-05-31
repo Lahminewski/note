@@ -2,11 +2,6 @@
     --couleur-primaire : #53606C;
 }
 
-@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
-@import url(https://fonts.googleapis.com/css?family=Teko:300);
-@import url(https://fonts.googleapis.com/css?family=Abel);
-@import url(https://fonts.googleapis.com/css?family=Cinzel);
-@import url('https://fonts.googleapis.com/css?family=EB+Garamond');
 
 * {
     box-sizing: border-box;
@@ -63,16 +58,6 @@ body { display: flex; flex-direction: column; }
     float: left;
     padding: 3em 3em 3em 0;
 }
-
-#title * { margin: 0; color: #fff; }
-#title p { font-style: italic; }
-
-#logo { height: 10.8em; }
-#logo * { display: block; height: 100%; }
-#logo img { min-width: 4.8em; }
-
-#logo + #title h1 { margin: 0.8rem 0; }
-#logo + #title.tagline h1 { margin: 0; }
 
 #nav {
     padding: 3em 0;
@@ -163,7 +148,8 @@ body { display: flex; flex-direction: column; }
 html { font-size: 18px; }
 
 body {
-    font-family: 'EB Garamond', 'Droid Sans', 'Helvetica', 'Arial', sans-serif;
+    font-family: 'EB Garamond', 'Droid Sans', 
+'Helvetica', 'Arial', sans-serif;
     font-size: 1.0rem;
     line-height: 1.6;
     font-variant-ligatures: common-ligatures;
@@ -212,29 +198,6 @@ hr {
 }
 
 abbr { text-decoration: underline dotted; }
-
-/*** UTILITIES ***/
-
-.align-left { text-align: left; }
-.align-center { text-align: center; }
-.align-right { text-align: right; }
-.align-justify { text-align: justify; }
-
-.image { display: block; margin: 0 auto; }
-.image.xsmall { width: 20%; }
-.image.small { width: 40%; }
-.image.large { width: 60%; }
-.image.xlarge { width: 80%; }
-.image.float-left { float: left; margin: 1em 2em 1em 0; }
-.image.float-right { float: right; margin: 1em 0 1em 2em; }
-.image img { display: block; width: 100%; }
-
-@media (max-width: 767px) {
-    .image.xsmall { width: 60%; }
-    .image.small { width: 80%; }
-    .image.large, .image.xlarge { width: 100%; }
-    .image.float-left, .image.float-right { float: none; margin: 0 auto; }
-}
 
 /*** TABLES ***/
 
@@ -313,63 +276,4 @@ blockquote {
     margin-left: 1em;
     padding-left: 1em;
     border-left: 0.5em solid #f5f5f5;
-}
-
-/*** FORMS ***/
-
-label, fieldset legend { font-weight: bold; }
-
-input:not([type="checkbox"]):not([type="radio"]), button, select, textarea, fieldset, fieldset legend {
-    border: 1px solid #ccc;
-    border-radius: 0.3em;
-    background: #fff;
-    -webkit-transition: none .2s ease-in;
-            transition: none .2s ease-in;
-    -webkit-transition-property: border-color, background, box-shadow;
-            transition-property: border-color, background, box-shadow;
-}
-
-input:not([type="checkbox"]):not([type="radio"]), button, select, textarea {
-    padding: 0.5em 1em;
-    outline: 0 none;
-    font-size: 1rem;
-}
-input:focus:not([type="checkbox"]):not([type="radio"]), button:focus, select:focus, textarea:focus {
-    border-color: #2EAE9B;
-    box-shadow: 0 0 8px #2EAE9B;
-}
-input[type="button"]:focus, input[type="submit"]:focus, input[type="reset"]:focus, button:focus,
-input[type="button"]:hover, input[type="submit"]:hover, input[type="reset"]:hover, button:hover {
-    background: #f5f5f5;
-    cursor: pointer;
-}
-
-textarea, select[multiple] {
-    vertical-align: bottom;
-    overflow: auto;
-}
-
-fieldset {
-    padding: 1em;
-    background: #f5f5f5;
-}
-fieldset legend { padding: 0 0.5em; }
-
-fieldset label, fieldset input, fieldset button,
-fieldset select, fieldset textarea {
-    margin: 0.2em 0.5em;
-}
-fieldset label:first-child, fieldset input:first-child, fieldset button:first-child,
-fieldset select:first-child, fieldset textarea:first-child {
-    margin-left: 0;
-}
-fieldset label:last-child, fieldset input:last-child, fieldset button:last-child,
-fieldset select:last-child, fieldset textarea:last-child {
-    margin-right: 0;
-}
-
-/* Firefox input size fix */
-input::-moz-focus-inner, button::-moz-focus-inner {
-    border: 0;
-    padding: 0;
 }
