@@ -53,4 +53,4 @@ title: Test2
 
 ## Liens utiles
 
-[https://inspection.canada.ca/sante-des-animaux/animaux-terrestres/biosecurite/normes-et-principes/guide-du-producteur-d-abeilles-domestiques-norme/fra/1378390483360/1378390541968?chap=0#c12](Truc)
+[Liste d'inspection.canada.ca](https://inspection.canada.ca/sante-des-animaux/animaux-terrestres/biosecurite/normes-et-principes/guide-du-producteur-d-abeilles-domestiques-norme/fra/1378390483360/1378390541968?chap=0#c12)
