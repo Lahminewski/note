@@ -54,33 +54,6 @@ body { display: flex; flex-direction: column; }
 
 #header { background: #444; }
 
-#title, #logo {
-    float: left;
-    padding: 3em 3em 3em 0;
-}
-
-#nav {
-    padding: 3em 0;
-    text-align: right;
-    letter-spacing: 2px;
-}
-#nav ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-}
-#nav ul li {
-    display: inline-block;
-    margin-left: 1em;
-    padding: 0;
-    font-weight: bold;
-}
-
-#nav a, #nav-toggle { color: orangered; }
-#nav .active a, #nav a:hover, #nav-toggle:hover { color: #fff; }
-
-#nav-toggle { display: none; }
-
 /*** BASIC LAYOUT: FOOTER ***/
 
 #footer {
@@ -90,58 +63,6 @@ body { display: flex; flex-direction: column; }
 
 #footer a { color: orange; }
 #footer a:hover { color: orangered; }
-
-#footer p {
-    margin: 0;
-    padding: 3em 0;
-}
-
-#footer .social {
-    float: right;
-    padding: 1.5em 0 1.5em 1em;
-    font-size: 2rem;
-}
-
-/*** BASIC LAYOUT: EXTRA SMALL DEVICES ***/
-
-@media (max-width: 767px) {
-    #main { padding: 2em 0 1em; }
-
-    #title, #logo { padding: 2em 1.5em 2em 0; }
-    #logo { height: 8.8em; }
-
-    #nav {
-        clear: both;
-        padding: 0;
-    }
-    #nav ul {
-        padding-bottom: 1em;
-    }
-    #nav ul li {
-        display: block;
-        margin-left: 0;
-        text-align: center;
-    }
-    #nav ul li a {
-        display: block;
-        padding: 0.5em 0;
-    }
-
-    .js #nav-toggle {
-        display: block;
-        float: right;
-        width: 2em;
-        margin: 0.6667em 0;
-        font-size: 1.5rem;
-        line-height: 2em;
-        text-align: center;
-        cursor: pointer;
-    }
-    .js #nav-toggle > * { vertical-align: middle;  }
-
-    #footer p { padding: 1em 0; }
-    #footer .social { padding: 0.5em 0 0.5em 1em; }
-}
 
 /*** TYPOGRAPHY ***/
 
