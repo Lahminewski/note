@@ -47,3 +47,6 @@ Le terrain peu être s'il est utilisé chaque année ornée de pierre monumental
 Les chapeaux ou autre couvre chef sont acceptés uniquement s'ils sont retirés pour le salut de fin de partie. Tout manque de respect envers les adversaires, les règles ancestrales ou envers l’arbitre seront sanctionnés par des coups de fouet.
 
 ![L'agilipet ancestrale](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rosa_camuna_e_antropomorfi_R24_-_Foppe_-_Nadro.jpg/334px-Rosa_camuna_e_antropomorfi_R24_-_Foppe_-_Nadro.jpg)
+
+## Resources
+[Vous pouvez contribué à la redaction des régle de l'agilipette sur github](https://github.com/Lahminewski/note/edit/main/agilipet.md)
