@@ -18,17 +18,31 @@ Les pénalités sont définies dans les grandes lignes avant la partie et peuven
 
 ## Dates des tournois
 Les dates des tournois d’importance se situent exclusivement pendants les solstices et les équinoxes. Cet élément est important pour l’homologation du terrain. 
-Tout autre tournoi pratiqué à une autre est considéré comme mineur ou amical et ne présente aucune valeur rituelle ou pour le classement. L’agilipet peut donc être se pratiquer de manière libre et récréative le reste du temps. On notera qu’en la présence d’un grand ancien, une attention particulière est de mise pour une pratique respectueuse des voix orthodoxes de l’agilipet rituel ancestral.  
+Tout autre tournoi pratiqué à une autre est considéré comme mineur ou amical et ne présente aucune valeur rituelle ou pour le classement du clan. L’agilipet peut donc se pratiquer de manière libre et récréative le reste du temps. 
+__On notera qu’en la présence d’un grand ancien, une attention particulière est de mise pour une pratique respectueuse des voix orthodoxes de l’agilipet rituel ancestral.__
 
 ## Gnomon
-Le gnomon est le bâton de lancé de 523.6 mm qui sert faire choir le bouteille central. Il sert également au calcul des dimensions du terrain. Si le gnomon est mal exécuté. 
+Le gnomon est le bâton de lancé de 523.6 [mm] qui sert faire choir le bouteille central. Il sert également au calcul des dimensions du terrain. Si le gnomon est mal exécuté. 
 Une tolérance de 42 [mm] est acceptée. Une exécution de Gnomon sculpté est aussi particulièrement souhaitable. Avent chaque tournoi d’importance, une purification par la fumée du banquet est effectué par l’arbitre.
 
 ## Terrain
 Le terrain fait 8 gnomons durent le solstice d’hiver, 12 durent les équinoxes et 16 durent le solstice d’été.
 Ces valeurs sont une approximation usuelle du nombre d’heures de jour de la période de l’année à laquelle se déroule le tournoi. Un calcul exact peut être effectué avant chaque tournoi si besoin.
+
+| Date                  | Gnomons        | Mètre      |
+|:--------------------|:-----------------:| -----------:|
+| Solstice d’hiver    | 8                   | 4.18        |
+| Équinoxes           | 12                  | 6.29        |
+| Solstice d’été      | 16                  | 8.38        |
+
 Le terrain peu être s'il est utilisé chaque année ornée de pierre monumentale en cercle autours du terrain. Stonehenge ou le Colisée de Rome sont de magnifique exemple de terrain d’agilipet dit orné.
 
+![Stonehenge](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Stonehenge_render.jpg/320px-Stonehenge_render.jpg)
+
+![Colosseum](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Colosseum_in_Rome_%28titel_op_object%29_P.I.N._5818_Roma_Amfiteatro_flavio_o_colosseo_%28A.D._dell_72_all%27_80%29._%28titel_op_object%29%2C_RP-F-2007-358-56.jpg/297px-Colosseum_in_Rome_%28titel_op_object%29_P.I.N._5818_Roma_Amfiteatro_flavio_o_colosseo_%28A.D._dell_72_all%27_80%29._%28titel_op_object%29%2C_RP-F-2007-358-56.jpg)
+
+
 ## Coutume 
+Les chapeaux ou autre couvre chef sont acceptés uniquement s'ils sont retirés pour le salut de fin de partie. Tout manque de respect envers les adversaires, les règles ancestrales ou envers l’arbitre seront sanctionnés par des coups de fouet.
+
 ![L'agilipet ancestrale](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rosa_camuna_e_antropomorfi_R24_-_Foppe_-_Nadro.jpg/334px-Rosa_camuna_e_antropomorfi_R24_-_Foppe_-_Nadro.jpg)
-Les chapeaux sont acceptés uniquement s'ils sont retirés pour le salut de fin de partie. Tout manque de respect envers les adversaires, les règles ancestrales ou envers l’arbitre seront sanctionnés par des coups de fouet.
