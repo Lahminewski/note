@@ -30,12 +30,12 @@ Une tolérance de 42 [mm] est acceptée. Une exécution de Gnomon sculpté est a
 Le terrain fait 8 gnomons durent le solstice d’hiver, 12 durent les équinoxes et 16 durent le solstice d’été.
 Ces valeurs sont une approximation usuelle du nombre d’heures de jour de la période de l’année à laquelle se déroule le tournoi. Un calcul exact peut être effectué avant chaque tournoi si besoin.
 
-| Date                | Gnomons           | Mètre       |
-|:--------------------|:-----------------:| -----------:|
-| Équinoxes           | 12                | 6.29        |
-| Solstice d’été      | 16                | 8.38        |
-| Équinoxes           | 12                | 6.29        |
-| Solstice d’hiver    | 8                 | 4.18        |
+|                        |Date              | Gnomons           | Mètre       |
+|:-----------------------|:-----------------|:-----------------:| -----------:|
+| Équinoxes de printemps | 20 mars 2023     | 12                | 6.29        |
+| Solstice d’été         | 21 juin          | 16                | 8.38        |
+| Équinoxes d'automne    | 23 septembre 2023| 12                | 6.29        |
+| Solstice d’hiver       | 22 décembre 2023 | 8                 | 4.18        |
 
 Le terrain peu être s'il est utilisé chaque année ornée de pierre monumentale en cercle autours du terrain. Stonehenge ou le Colisée de Rome sont de magnifique exemple de terrain d’agilipet dit orné.
 
