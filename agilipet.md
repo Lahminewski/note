@@ -23,7 +23,7 @@ Tout autre tournoi pratiqué à une autre est considéré comme mineur ou amical
 _On notera qu’en la présence d’un grand ancien, une attention particulière est de mise pour une pratique respectueuse des voix orthodoxes de l’agilipet rituel ancestral._
 
 ## Gnomon
-Le gnomon [(γνώμων : Qui connaît, interprète et juge en gréc)](https://fr.wiktionary.org/wiki/%CE%B3%CE%BD%CF%8E%CE%BC%CF%89%CE%BD) est le bâton de lancé de 523.6 [mm] qui sert faire choir le bouteille central. Il sert également au calcul des dimensions du terrain. Si le gnomon est mal exécuté. 
+Le gnomon [(γνώμων : Qui connaît, interprète et juge en gréc)](https://fr.wiktionary.org/wiki/%CE%B3%CE%BD%CF%8E%CE%BC%CF%89%CE%BD) est le bâton de lancé de 523.6 [mm] qui sert faire choir la bouteille centrale. Il sert également au calcul des dimensions du terrain. Si le gnomon est mal exécuté. 
 Une tolérance de 42 [mm] est acceptée. Une exécution de Gnomon sculpté est aussi particulièrement souhaitable. Avent chaque tournoi d’importance, une purification par la fumée du banquet est effectué par l’arbitre.
 
 ## Terrain
@@ -48,5 +48,5 @@ Les chapeaux ou autre couvre chef sont acceptés uniquement s'ils sont retirés 
 
 ![L'agilipet ancestrale](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rosa_camuna_e_antropomorfi_R24_-_Foppe_-_Nadro.jpg/334px-Rosa_camuna_e_antropomorfi_R24_-_Foppe_-_Nadro.jpg)
 
-## Resources
-[Vous pouvez contribué à la redaction des régle de l'agilipette sur github](https://github.com/Lahminewski/note/edit/main/agilipet.md)
+## Ressources
+[Vous pouvez contribuer à la rédaction des règles de l'agilipet sur github](https://github.com/Lahminewski/note/edit/main/agilipet.md)
