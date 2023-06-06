@@ -23,7 +23,7 @@ Tout autre tournoi pratiqué à une autre est considéré comme mineur ou amical
 _On notera qu’en la présence d’un grand ancien, une attention particulière est de mise pour une pratique respectueuse des voix orthodoxes de l’agilipet rituel ancestral._
 
 ## Gnomon
-Le gnomon est le bâton de lancé de 523.6 [mm] qui sert faire choir le bouteille central. Il sert également au calcul des dimensions du terrain. Si le gnomon est mal exécuté. 
+Le gnomon [https://fr.wiktionary.org/wiki/%CE%B3%CE%BD%CF%8E%CE%BC%CF%89%CE%BD](γνώμων : Qui connaît, interprète et juge en gréc) est le bâton de lancé de 523.6 [mm] qui sert faire choir le bouteille central. Il sert également au calcul des dimensions du terrain. Si le gnomon est mal exécuté. 
 Une tolérance de 42 [mm] est acceptée. Une exécution de Gnomon sculpté est aussi particulièrement souhaitable. Avent chaque tournoi d’importance, une purification par la fumée du banquet est effectué par l’arbitre.
 
 ## Terrain
@@ -32,9 +32,10 @@ Ces valeurs sont une approximation usuelle du nombre d’heures de jour de la p�
 
 | Date                | Gnomons           | Mètre       |
 |:--------------------|:-----------------:| -----------:|
-| Solstice d’hiver    | 8                 | 4.18        |
 | Équinoxes           | 12                | 6.29        |
 | Solstice d’été      | 16                | 8.38        |
+| Équinoxes           | 12                | 6.29        |
+| Solstice d’hiver    | 8                 | 4.18        |
 
 Le terrain peu être s'il est utilisé chaque année ornée de pierre monumentale en cercle autours du terrain. Stonehenge ou le Colisée de Rome sont de magnifique exemple de terrain d’agilipet dit orné.
 
