@@ -2,7 +2,7 @@
 title: Agilipet
 ---
 # Règles de l'agilipet 
-_Par les détenteurs des secrets_
+_Par les détenteurs des secrets !_
 
 ## But
 Le but de cette cérémonie est de montrer la supériorité de son clan en termes d’agilité, de vitesse et de descente.
