@@ -1,7 +1,8 @@
 ---
 title: Agilipet
 ---
-# RÈGLES DE L’AGILIPET <br> __PAR LES DÉTENTEURS DES SECRETS__
+# Règles de l'agilipet 
+_Par les détenteurs des secrets_
 
 ## But
 Le but de cette cérémonie est de montrer la supériorité de son clan en termes d’agilité, de vitesse et de descente.
@@ -10,6 +11,8 @@ Le but de cette cérémonie est de montrer la supériorité de son clan en terme
 La partie commence par un tirage au sort pour définir quelle équipe commence. Ensuite, la première équipe lance le gnomon sur la bouteille au centre du terrain. Si la bouteille tombe, les membres de la première équipe doivent boire le plus vite possible leur cannette ou autre contenant opaque. Pendent ce temps, l’autre équipe tente de redresser la bouteille le plus vite possible, récupèrent le gnomon et retournent dans leur zone. Quand l’équipe adverse est de retour dans sa zone, la première équipe doit cesser de boire.
 C'est ensuite au tours de la deuxième équipe de lancer.
 La partie se termine quand l’une des deux équipes a totalement fini de boire son contenant. Pour vérifier qu’il est bien vide, ils doivent le retourner sur leur tête. S’il ne reste ne serait-ce qu’une goutte, une pénalité est donnée. 
+![https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Showing_method_of_attack_with_boomerang_-_NMA-15147.jpg/356px-Showing_method_of_attack_with_boomerang_-_NMA-15147.jpg](test)
+
 
 ## Les pénalités
 Les pénalités sont définies dans les grandes lignes avant la partie et peuvent être ajustées par l’arbitre au cours de la partie.
