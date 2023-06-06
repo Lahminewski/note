@@ -27,6 +27,11 @@ code {
     line-height: 1.9824;
 }
 
+table {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
 pre {
     padding: 0 1em;
     border: 1px solid #ccc;
