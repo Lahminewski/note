@@ -22,7 +22,7 @@ Les pénalités sont définies dans les grandes lignes avant la rencontre et peu
 
 ## Gnomon
 Le gnomon [(γνώμων : Qui connaît, interprète et juge en gréc)](https://fr.wiktionary.org/wiki/%CE%B3%CE%BD%CF%8E%CE%BC%CF%89%CE%BD) est le bâton de lancé de 523.6 [mm] qui sert faire choir la bouteille centrale. Il sert également au calcul des dimensions du terrain. 
-Une tolérance de 42 [mm] est acceptée suit aux déboires du premier maitre gnomonier. Cette histoire se trouve contée dans les chroniques griotique des clans d'outremer.
+Une tolérance de 42 [mm] est acceptée suite aux déboires du premier maitre gnomonier. Cette histoire se trouve contée dans les chroniques griotique des clans d'outremer.
 Une exécution de Gnomon sculpté est aussi particulièrement souhaitable. Avent chaque tournoi d’importance, une purification par la fumée du banquet est effectué par l’arbitre.
 
 ## Dates des tournois
@@ -31,7 +31,7 @@ Tout autre tournoi pratiqué à une autre moment est considéré comme mineur ou
 _On notera qu’en présence d’un grand ancien, une attention particulière est de mise pour une pratique respectueuse des voix orthodoxes de l’agilipet rituel ancestral._
 
 ## Terrain
-Le terrain fait 8 gnomons durent le solstice d’hiver, 12 durant les équinoxes et 16 durant le solstice d’été.
+Le terrain fait 8 gnomons durent le solstice d’hiver, 12 gnomons durant les équinoxes et 16 gnomons durant le solstice d’été.
 Ces valeurs sont une approximation usuelle du nombre d’heures de jour de la période de l’année à laquelle se déroule le tournoi. Un calcul exact peut être effectué avant chaque tournoi, si besoin.
 
 |                        |Date              | Gnomons           | Mètre       |
