@@ -13,7 +13,7 @@ Le but de cette cérémonie est de montrer la supériorité de son clan en terme
 - Pendant ce temps, l’autre équipe tente de redresser la bouteille le plus vite possible, récupère le gnomon et retourne dans sa zone. 
 - Quand l’équipe adverse est de retour dans sa zone, la première équipe doit cesser de boire.
 - C'est ensuite au tour de la deuxième équipe de lancer.
-La partie se termine quand tous les membres de l'une des deux équipes a totalement fini de boire son contenant. Pour vérifier qu’il est bien vide, ils doivent le retourner sur leur tête. S’il ne reste ne serait-ce qu’une goutte, une pénalité est donnée et la partie reprend. 
+La partie se termine quand tous les membres de l'une des deux équipes ont totalement fini de boire leurs contenants. Pour vérifier qu’ils sont bien vides, ils doivent les retourner sur leur tête. S’il ne reste ne serait-ce qu’une goutte, une pénalité est donnée et la partie reprend. 
 
 ![Un agilipetiste en pleine action](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Showing_method_of_attack_with_boomerang_-_NMA-15147.jpg/356px-Showing_method_of_attack_with_boomerang_-_NMA-15147.jpg)
 
@@ -24,6 +24,9 @@ Les pénalités sont définies dans les grandes lignes avant la rencontre et peu
 Le gnomon [(γνώμων : Qui connaît, interprète et juge en gréc)](https://fr.wiktionary.org/wiki/%CE%B3%CE%BD%CF%8E%CE%BC%CF%89%CE%BD) est le bâton de lancé de 523.6 [mm] qui sert faire choir la bouteille centrale. Il sert également au calcul des dimensions du terrain. 
 Une tolérance de 42 [mm] est acceptée suit aux déboires du premier maitre gnomonier. Cette histoire se trouve contée dans les chroniques griotique des clans d'outremer.
 Une exécution de Gnomon sculpté est aussi particulièrement souhaitable. Avent chaque tournoi d’importance, une purification par la fumée du banquet est effectué par l’arbitre.
+
+## Techniques de lancer
+Le lancer du gnomon doit se faire en amenant la main qui le tient à hauteur d'oreille, faisant reposer ce bâton sacré sur l'èpaule, afin d'effectuer un lancer droit ou en cloche. Il n'est pas toléré de lancer le gnomon de manière rasante ou du bas vers le haut. 
 
 ## Dates des tournois
 Les dates des tournois d’importance se situent exclusivement pendants les solstices et les équinoxes. Cet élément est important pour l’homologation du terrain. 
@@ -45,7 +48,6 @@ Le terrain peut être, s'il est utilisé chaque année, orné de pierres monumen
 
 ![Stonehenge](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Stonehenge_render.jpg/320px-Stonehenge_render.jpg)
 ![Colosseum](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Colosseum_in_Rome_%28titel_op_object%29_P.I.N._5818_Roma_Amfiteatro_flavio_o_colosseo_%28A.D._dell_72_all%27_80%29._%28titel_op_object%29%2C_RP-F-2007-358-56.jpg/297px-Colosseum_in_Rome_%28titel_op_object%29_P.I.N._5818_Roma_Amfiteatro_flavio_o_colosseo_%28A.D._dell_72_all%27_80%29._%28titel_op_object%29%2C_RP-F-2007-358-56.jpg)
-
 
 ## Coutume 
 Les chapeaux ou autre couvre-chef sont acceptés uniquement s'ils sont retirés pour le salut de fin de partie. Tout manque de respect envers les adversaires, les règles ancestrales ou envers l’arbitre seront sanctionnés par des coups de fouet.
