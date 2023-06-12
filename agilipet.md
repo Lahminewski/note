@@ -26,7 +26,7 @@ Une tolérance de 42 [mm] est acceptée suit aux déboires du premier maitre gno
 Une exécution de Gnomon sculpté est aussi particulièrement souhaitable. Avent chaque tournoi d’importance, une purification par la fumée du banquet est effectué par l’arbitre.
 
 ## Techniques de lancer
-Le lancer du gnomon doit se faire en amenant la main qui le tient à hauteur d'oreille, faisant reposer ce bâton sacré sur l'èpaule, afin d'effectuer un lancer droit ou en cloche. Il n'est pas toléré de lancer le gnomon de manière rasante ou du bas vers le haut. 
+Le lancer du gnomon doit se faire en amenant la main qui le tient à hauteur d'oreille, faisant reposer ce bâton sacré sur l'épaule, afin d'effectuer un lancer droit ou en cloche. Il n'est pas toléré de lancer le gnomon de manière rasante ou du bas vers le haut. 
 
 ## Dates des tournois
 Les dates des tournois d’importance se situent exclusivement pendants les solstices et les équinoxes. Cet élément est important pour l’homologation du terrain. 
