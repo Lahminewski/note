@@ -32,3 +32,11 @@ table {
   width: 100%;
   border-collapse: collapse;
 }
+.container {
+    display: none;
+}
+
+.container  a::after {
+    content: "//";
+  	color: #9C0C0C;
+}
