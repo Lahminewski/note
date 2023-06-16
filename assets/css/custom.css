@@ -36,7 +36,7 @@ table {
     display: none;
 }
 
-.container  a::after {
-    content: "//";
-  	color: #9C0C0C;
+.container::after {
+    content: "// Lahminewski";
+  	color: #e2af78;
 }
