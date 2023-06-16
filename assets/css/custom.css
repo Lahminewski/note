@@ -35,8 +35,3 @@ table {
 .container {
     display: none;
 }
-
-.container::after {
-    content: "// Lahminewski";
-  	color: #e2af78;
-}
