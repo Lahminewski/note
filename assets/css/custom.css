@@ -2,57 +2,19 @@
     --couleur-primaire : #53606C;
 }
 
-/*** LISTS ***/
-
-ol, ul {
-    list-style-position: outside;
-    padding-left: 1.5em;
-}
-ol { padding-left: 2.5em; }
-li { padding-left: 0.5em; }
-
-dt { font-weight: bold; }
-dd { margin-left: 2em; }
-
-/*** CODE ***/
-
-code {
-    margin: 0 0.1em;
-    padding: 0.1em 0.2em;
-    border: 1px solid #ccc;
-    border-radius: 0.3em;
-    background: #f5f5f5;
-    font-family: 'Droid Sans Mono', 'Courier New', 'Courier', monospace;
-    font-size: 0.85rem;
-    line-height: 1.9824;
+body {
+color: #fff;
+background-color:#1f222a;
 }
 
-table {
-  border: 1px solid #ddd;
-  padding: 8px;
+h1 {
+color: #e2af78;
 }
 
-pre {
-    padding: 0 1em;
-    border: 1px solid #ccc;
-    border-radius: 0.3em;
-    background: #f5f5f5;
-}
-pre code {
-    display: block;
-    margin: 0;
-    padding: 1.1111em 0;
-    border: 0 none;
-    background: transparent;
-    overflow-x: auto;
-    line-height: 1.4;
+h2 {
+color: #e2af78;
 }
 
-/*** BLOCKQUOTE ***/
-
-blockquote {
-    font-style: italic;
-    margin-left: 1em;
-    padding-left: 1em;
-    border-left: 0.5em solid #993B1F;
+h3 {
+color: #e2af78;
 }
