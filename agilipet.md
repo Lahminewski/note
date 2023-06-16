@@ -17,7 +17,7 @@ La partie se termine quand tous les membres de l'une des deux équipes ont total
 
 ![Un agilipetiste en pleine action](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Showing_method_of_attack_with_boomerang_-_NMA-15147.jpg/356px-Showing_method_of_attack_with_boomerang_-_NMA-15147.jpg)
 
-## Les pénalités
+## Pénalités
 Les pénalités sont définies dans les grandes lignes avant la rencontre et peuvent être ajustées par l’arbitre au cours de la partie.
 
 ## Gnomon
@@ -31,7 +31,9 @@ Le lancer du gnomon doit se faire en amenant la main qui le tient à hauteur d'o
 ## Dates des tournois
 Les dates des tournois d’importance se situent exclusivement pendant les solstices et les équinoxes. Cet élément est important pour l’homologation du terrain. 
 Tout autre tournoi pratiqué à un autre moment est considéré comme mineur ou amical et ne présente aucune valeur rituelle ou pour le classement du clan, mais présente un intérêt dans le renforcement des liens d'équipe et de certaines concurrences qui, exacerbées, peuvent rendre les enjeux des tournois d'importances importants. Si ils ne l'étaient pas déjà. Bien qu'ils le soient.
+
 L’agilipet peut donc se pratiquer de manière libre et récréative le reste du temps. 
+
 _On notera qu’en présence d’un grand ancien, une attention particulière est de mise pour une pratique respectueuse des voies orthodoxes de l’agilipet rituel ancestral._
 
 ## Terrain
@@ -50,8 +52,9 @@ Le terrain peut être, s'il est utilisé chaque année, orné de pierres monumen
 ![Stonehenge](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Stonehenge_render.jpg/320px-Stonehenge_render.jpg)
 ![Colosseum](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Colosseum_in_Rome_%28titel_op_object%29_P.I.N._5818_Roma_Amfiteatro_flavio_o_colosseo_%28A.D._dell_72_all%27_80%29._%28titel_op_object%29%2C_RP-F-2007-358-56.jpg/297px-Colosseum_in_Rome_%28titel_op_object%29_P.I.N._5818_Roma_Amfiteatro_flavio_o_colosseo_%28A.D._dell_72_all%27_80%29._%28titel_op_object%29%2C_RP-F-2007-358-56.jpg)
 
-## Coutume 
-Les chapeaux ou autre couvre-chef sont acceptés uniquement s'ils sont retirés pour l'annonce de fin de contenant. Tout manque de respect envers les adversaires, les règles ancestrales ou envers l’arbitre seront sanctionnés proportionnellement à l'affront subi.
+## Coutumes 
+Les chapeaux ou autre couvre-chef sont acceptés uniquement s'ils sont retirés pour l'annonce de fin de contenant. 
+Tout manque de respect envers les adversaires, les règles ancestrales ou envers l’arbitre seront sanctionnés proportionnellement à l'affront subi.
 
 ![L'agilipet ancestrale](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rosa_camuna_e_antropomorfi_R24_-_Foppe_-_Nadro.jpg/334px-Rosa_camuna_e_antropomorfi_R24_-_Foppe_-_Nadro.jpg)
 
