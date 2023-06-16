@@ -13,11 +13,7 @@ color: #e2af78;
 }
 
 h1 {
-color: #e2af78;
-}
-
-H1::before {
-    content: "//";
+color: #d87c4bff;
 }
 
 h2 {
