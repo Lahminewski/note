@@ -16,6 +16,10 @@ h1 {
 color: #e2af78;
 }
 
+H1::before {
+    content: "//";
+}
+
 h2 {
 color: #e2af78;
 }
@@ -32,6 +36,6 @@ table {
   width: 100%;
   border-collapse: collapse;
 }
-.container {
+footer {
     display: none;
 }
