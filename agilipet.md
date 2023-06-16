@@ -21,20 +21,21 @@ La partie se termine quand tous les membres de l'une des deux équipes ont total
 Les pénalités sont définies dans les grandes lignes avant la rencontre et peuvent être ajustées par l’arbitre au cours de la partie.
 
 ## Gnomon
-Le gnomon [(γνώμων : Qui connaît, interprète et juge en gréc)](https://fr.wiktionary.org/wiki/%CE%B3%CE%BD%CF%8E%CE%BC%CF%89%CE%BD) est le bâton de lancé de 523.6 [mm] qui sert faire choir la bouteille centrale. Il sert également au calcul des dimensions du terrain. 
-Une tolérance de 42 [mm] est acceptée suit aux déboires du premier maitre gnomonier. Cette histoire se trouve contée dans les chroniques griotique des clans d'outremer.
-Une exécution de Gnomon sculpté est aussi particulièrement souhaitable. Avent chaque tournoi d’importance, une purification par la fumée du banquet est effectué par l’arbitre.
+Le gnomon [(γνώμων : Qui connaît, interprète et juge en grec)](https://fr.wiktionary.org/wiki/%CE%B3%CE%BD%CF%8E%CE%BC%CF%89%CE%BD) est le bâton de lancer de 523.6 [mm] qui sert à faire choir la bouteille centrale. Il sert également au calcul des dimensions du terrain. 
+Une tolérance de 42 [mm] est acceptée suite aux déboires du premier maître gnomonier. Cette histoire se trouve contée dans les chroniques griotique des clans d'Outremer.
+Une exécution de gnomon sculpté est aussi particulièrement souhaitable. Avant chaque tournoi d’importance, une purification par la fumée du banquet est effectuée par l’arbitre.
 
 ## Techniques de lancer
-Le lancer du gnomon doit se faire en amenant la main qui le tient à hauteur d'oreille, faisant reposer ce bâton sacré sur l'èpaule, afin d'effectuer un lancer droit ou en cloche. Il n'est pas toléré de lancer le gnomon de manière rasante ou du bas vers le haut. 
+Le lancer du gnomon doit se faire en amenant la main qui le tient à hauteur d'oreille, faisant reposer ce bâton sacré sur l'épaule, afin d'effectuer un lancer droit ou en cloche. Il n'est pas toléré de lancer le gnomon de manière rasante ou du bas vers le haut. 
 
 ## Dates des tournois
-Les dates des tournois d’importance se situent exclusivement pendants les solstices et les équinoxes. Cet élément est important pour l’homologation du terrain. 
-Tout autre tournoi pratiqué à une autre moment est considéré comme mineur ou amical et ne présente aucune valeur rituelle ou pour le classement du clan. L’agilipet peut donc se pratiquer de manière libre et récréative le reste du temps. 
+Les dates des tournois d’importance se situent exclusivement pendant les solstices et les équinoxes. Cet élément est important pour l’homologation du terrain. 
+Tout autre tournoi pratiqué à un autre moment est considéré comme mineur ou amical et ne présente aucune valeur rituelle ou pour le classement du clan, mais présente un intérêt dans le renforcement des liens d'équipe et de certaines concurrences qui, exacerbées, peuvent rendre les enjeux des tournois d'importances importants. Si ils ne l'étaient pas déjà. Bien qu'ils le soient.
+L’agilipet peut donc se pratiquer de manière libre et récréative le reste du temps. 
 _On notera qu’en présence d’un grand ancien, une attention particulière est de mise pour une pratique respectueuse des voies orthodoxes de l’agilipet rituel ancestral._
 
 ## Terrain
-Le terrain fait 8 gnomons durent le solstice d’hiver, 12 gnomons durant les équinoxes et 16 gnomons durant le solstice d’été.
+Le terrain fait 8 gnomons durant le solstice d’hiver, 12 gnomons durant les équinoxes et 16 gnomons durant le solstice d’été.
 Ces valeurs sont une approximation usuelle du nombre d’heures de jour de la période de l’année à laquelle se déroule le tournoi. Un calcul exact peut être effectué avant chaque tournoi, si besoin.
 
 |                        |Date              | Gnomons           | Mètre       |
@@ -50,7 +51,7 @@ Le terrain peut être, s'il est utilisé chaque année, orné de pierres monumen
 ![Colosseum](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Colosseum_in_Rome_%28titel_op_object%29_P.I.N._5818_Roma_Amfiteatro_flavio_o_colosseo_%28A.D._dell_72_all%27_80%29._%28titel_op_object%29%2C_RP-F-2007-358-56.jpg/297px-Colosseum_in_Rome_%28titel_op_object%29_P.I.N._5818_Roma_Amfiteatro_flavio_o_colosseo_%28A.D._dell_72_all%27_80%29._%28titel_op_object%29%2C_RP-F-2007-358-56.jpg)
 
 ## Coutume 
-Les chapeaux ou autre couvre-chef sont acceptés uniquement s'ils sont retirés pour le salut de fin de partie. Tout manque de respect envers les adversaires, les règles ancestrales ou envers l’arbitre seront sanctionnés par des coups de fouet.
+Les chapeaux ou autre couvre-chef sont acceptés uniquement s'ils sont retirés pour l'annonce de fin de contenant. Tout manque de respect envers les adversaires, les règles ancestrales ou envers l’arbitre seront sanctionnés proportionnellement à l'affront subi.
 
 ![L'agilipet ancestrale](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rosa_camuna_e_antropomorfi_R24_-_Foppe_-_Nadro.jpg/334px-Rosa_camuna_e_antropomorfi_R24_-_Foppe_-_Nadro.jpg)
 
