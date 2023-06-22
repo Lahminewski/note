@@ -1,5 +1,5 @@
 ---
-title: Objectif numerique
+title: Numerique
 ---
 ## Objectif numérique
 
@@ -10,3 +10,5 @@ title: Objectif numerique
 - Trouver une alternative solide a Photoshop         ⏳
 - Trouver une alternative a camera RAW         ⏳
 - Trouver une alternative a Spotify          ⏳
+
+##
