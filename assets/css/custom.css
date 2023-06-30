@@ -32,6 +32,6 @@ table {
   width: 100%;
   border-collapse: collapse;
 }
-footer .skip-links{
+footer #skip-links{
     display: none;
 }
