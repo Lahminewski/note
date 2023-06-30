@@ -34,6 +34,11 @@ table {
   width: 100%;
   border-collapse: collapse;
 }
+
 footer, .skip-links{
     display: none;
+}
+
+nav::before {
+  content: "⚒️";
 }
