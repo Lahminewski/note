@@ -39,8 +39,8 @@ footer, .skip-links{
     display: none;
 }
 
-ul::before {
+nav ul::before {
   content: "🐝";
   color: #d87c4bff;
- width: 12px;
+ width: 25px;
 }
