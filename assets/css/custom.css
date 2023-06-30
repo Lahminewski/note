@@ -40,6 +40,7 @@ footer, .skip-links{
 }
 
 ul::before {
-  content: "⚒️";
+  content: "🐝";
   color: #d87c4bff;
+ width: 12px;
 }
