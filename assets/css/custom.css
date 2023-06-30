@@ -40,7 +40,7 @@ footer, .skip-links{
 }
 
 nav ul::before {
-  content: "🐝";
-  color: #d87c4bff;
- width: 25px;
+
+  content:url("https://lahminewski-lab.net/files/design/logo-petit.png")
+  width: 25px;
 }
