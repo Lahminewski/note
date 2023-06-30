@@ -39,6 +39,7 @@ footer, .skip-links{
     display: none;
 }
 
-nav::before {
+ul::before {
   content: "⚒️";
+  color: #d87c4bff;
 }
