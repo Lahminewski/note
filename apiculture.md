@@ -1,7 +1,8 @@
 ---
-title: BEEP vs Beekube
+title: Apiculture 
 ---
-## Remarque BEEP
+## BEEP vs Beekube
+### Remarque BEEP
 
 - Possibilité de choisir les fonctions utiles dans le profil utilisateur et masque les autres. (Par exemple : QR code, Capteurs, mesure). 
   Ça permettra d'alléger considérablement l'interface pour les personnes qui débute et qui n'utilise pas toutes les fonctions d'entrée de jeux.
@@ -15,7 +16,7 @@ title: BEEP vs Beekube
 - Journaliser les ajouts, suppression de matériel avec date.
 
 
-## Remarque Beekube
+### Remarque Beekube
 
 - Possibilité de choisir les fonctions utiles dans le profil utilisateur et masque les autres. 
   Par exemple : QR code, météo. Ça permettra d'alléger considérablement l'interface pour les personnes qui début et qui n'utilise pas toute les fonctions d'entrée de jeux.
@@ -26,30 +27,28 @@ title: BEEP vs Beekube
 - Possibilité de découpler la couleur du marquage et l'année. 
 - Avoir un champ "à faire" pour chaque ruche et/ou rucher
 
-## Tableau comparatif
+### Tableau comparatif
 
 | Fonction                         | BEEP                                  | Beekube                       |
 | --------------------------------:|:-------------------------------------:|:-----------------------------:|
 | Open source                      | [Oui](https://github.com/beepnl/BEEP) | Non                           |
 | Libre                            | Oui (AGPL-3.0 license )               | Non                           |
-| Plusieurs Langues                  | Oui                                   | Non                           |
+| Plusieurs Langues                | Oui                                   | Non                           |
 | UX                               | Correcte                              | Bon                           |
 |                                  |                                       |                               |
 | Contacts                         | Non                                   | Oui                           |
-| Génération de document (officiel) | Non                                   | Oui (uniquement pour la France) |
+| Génération de document (officiel) | Non                                  | Oui (uniquement pour la France) |
 | Ajout de Capteurs                | Oui                                   | Non                           |
 | API météo                        | Non                                   | Oui                           |
 | Couleur de ruche                 | Oui                                   | Non                           |
-| Gestion du pédigrée des raines     | Non                                   | Oui                           |
+| Gestion du pédigrée des raines   | Non                                   | Oui                           |
 | Critère de sélection             | Oui                                   | ?                             |
 |                                  |                                       |                               |
 | Exportation des data             | Oui (csv)                             | partiel (xls)                 |
-| Suppression <br/>des données vrac  | Non                                   | Non                           |
-|                                  |                                       |                               |
-|                                  |                                       |                               |
-|                                  |                                       |                               |
-|                                  |                                       |                               |
-| **Conclusion**                   | **++**                                | **+**                         |
+| Suppression <br/>des données vrac  | Non                                 | Non                           |
+
+
+### Conclusion
 
 ## Liens utiles
 
