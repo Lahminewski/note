@@ -4,7 +4,6 @@ title: "LinkTree"
 <style>
 body {
   text-align: center;
-   font-size: 20px;
 }
 header, H1 {
     display: none;
@@ -31,6 +30,7 @@ main ul {
 
 main li a {
   display: inline-block;
+  font-size: 18px;
   color: #000;
   padding: 16px;
   text-decoration: none;
@@ -64,4 +64,5 @@ Lahminewski c'est moi. Coucou !!!
 
 ## Autres liens
 * [Scribouilli](https://lahminewski.github.io/note/)
-* [Site web 🐝](https://lahminewski-lab.net/) 
+* [Site web 🐝](https://lahminewski-lab.net/)
+* [Wikimedia](http://commons.wikimedia.org/wiki/User:Lahminewski_Lab)
