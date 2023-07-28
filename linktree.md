@@ -5,7 +5,11 @@ title: "LinkTree"
 body {
   background: blue;
 }
-li {color:red;};
+a {
+  background-color: red;
+  padding: 15px;
+  margint: 15px;
+}
 </style>
 
 <div id="linktree">
