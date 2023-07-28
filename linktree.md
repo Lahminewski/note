@@ -14,15 +14,14 @@ main a {
   border: 1px solid #fff;
   border-radius: 16px;
 }
-  ul {
+main ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   width: 200px;
-  background-color: #f1f1f1;
 }
 
-li a {
+main li a {
   display: block;
   color: #000;
   padding: 8px 16px;
@@ -30,7 +29,7 @@ li a {
 }
 
 /* Change the link color on hover */
-li a:hover {
+main li a:hover {
   background-color: #555;
   color: white;
 }
