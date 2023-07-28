@@ -3,7 +3,8 @@ title: "LinkTree"
 ---
 <style>
 body {
-  text-align: center
+  text-align: center;
+   font-size: 14px;
 }
 header {
     display: none;
@@ -36,8 +37,11 @@ main li a {
 }
 
 main img {
-border-radius: 50%;
-  max-width: 200px;
+  border-radius: 50%;
+  max-width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto }
 }
 
 /* Change the link color on hover */
