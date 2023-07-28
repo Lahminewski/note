@@ -4,7 +4,7 @@ title: "LinkTree"
 <style>
 body {
   text-align: center;
-   font-size: 16px;
+   font-size: 20px;
 }
 header, H1 {
     display: none;
@@ -60,6 +60,7 @@ Lahminewski c'est moi. Coucou !!!
 * [Instagram](https://www.instagram.com/lahminewski.lab/)
 * [Pixelfed](https://pixelfed.social/lahminewski.lab)
 * [Telegram](https://t.me/lahminewskiLab)
+* [[matrix]](https://matrix.to/#/#Lahminewski-lab:matrix.org)
 
 ## Autres liens
 * [Scribouilli](https://lahminewski.github.io/note/)
