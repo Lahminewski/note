@@ -59,10 +59,10 @@ Lahminewski c'est moi. Coucou !!!
 ## Réseaux sociaux
 * [[matrix]](https://matrix.to/#/#Lahminewski-lab:matrix.org)
 * [Pixelfed](https://pixelfed.social/lahminewski.lab)
+* [tooting.ch](https://tooting.ch/@lahminewski)
 * [Telegram](https://t.me/lahminewskiLab)
 * [Youtube](https://www.youtube.com/channel/UCZmTqaH_rHzGMmqvnW2eaTg)
 * [Instagram](https://www.instagram.com/lahminewski.lab/)
-<li><a rel="me" href="https://tooting.ch/@lahminewski"></a>tooting.ch</li>li
 
 
 ## Autres liens
