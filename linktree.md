@@ -15,7 +15,7 @@ main a {
   width: 80%;
   text-align: center;
   border: 1px solid #d87c4bff;;
-  border-radius: 16px;
+  border-radius: 9px;
   text-decoration: none
 }
 main ul {
@@ -55,6 +55,8 @@ main li a:hover {
 
 ![Chien une sorte de proto-punk cohérent](images/chien.png)
 Lahminewski c'est moi. Coucou !!!
+
+Je suis photographe et graphiste autodidacte. Ce que je cherche, c'est l’expérimentation et les échanges à travers l'art dans son sens large. 📷
 
 ## Réseaux sociaux
 * [[matrix]](https://matrix.to/#/#Lahminewski-lab:matrix.org)
