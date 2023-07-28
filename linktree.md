@@ -4,9 +4,9 @@ title: "LinkTree"
 <style>
 body {
   text-align: center;
-   font-size: 14px;
+   font-size: 16px;
 }
-header {
+header, H1 {
     display: none;
 }
 main a {
