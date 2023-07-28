@@ -21,13 +21,19 @@ main ul {
   margin: 0;
   padding: 0;
   min-width: 300px;
+  text-align: center
 }
 
 main li a {
   display: block;
   color: #000;
-  padding: 8px 16px;
+  padding: 16px;
   text-decoration: none;
+  text-align: center
+}
+
+main img {
+border-radius: 50%;
 }
 
 /* Change the link color on hover */
@@ -37,9 +43,8 @@ main li a:hover {
 }
 </style>
 
-<div id="linktree">
-<h2>Test avec un div</h2>
-</div> 
+![Chien une sorte de proto-punk cohérent](images/chien.png)
+Lahminewski c'est moi. Coucou !!!
 
 ## Réseaux sociaux
 * [Instagram](https://www.instagram.com/lahminewski.lab/)
