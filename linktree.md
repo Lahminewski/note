@@ -21,6 +21,7 @@ main a {
 }
 main ul {
   list-style-type: none;
+  text-decoration: none;
   display: inline-block;
   margin: 15px;
   padding: 0;
@@ -33,7 +34,8 @@ main li a {
   color: #000;
   padding: 16px;
   text-decoration: none;
-  text-align: center
+  text-align: center;
+  text-decoration: none;
 }
 
 main img {
