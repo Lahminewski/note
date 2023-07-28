@@ -9,7 +9,7 @@ header, H1 {
     display: none;
 }
 main a {
-  background-color: gray;
+  background-color: #777;
   padding: 15px;
   margint: 15px;
   width: 80%;
@@ -57,10 +57,11 @@ main li a:hover {
 Lahminewski c'est moi. Coucou !!!
 
 ## Réseaux sociaux
-* [Instagram](https://www.instagram.com/lahminewski.lab/)
+* [[matrix]](https://matrix.to/#/#Lahminewski-lab:matrix.org)
 * [Pixelfed](https://pixelfed.social/lahminewski.lab)
 * [Telegram](https://t.me/lahminewskiLab)
-* [[matrix]](https://matrix.to/#/#Lahminewski-lab:matrix.org)
+* [Youtube](https://www.youtube.com/channel/UCZmTqaH_rHzGMmqvnW2eaTg)
+* [Instagram](https://www.instagram.com/lahminewski.lab/)
 
 ## Autres liens
 * [Scribouilli](https://lahminewski.github.io/note/)
