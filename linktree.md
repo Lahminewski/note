@@ -48,7 +48,7 @@ main img {
 
 /* Change the link color on hover */
 main li a:hover {
-  background-color: #555;
+  background-color: #444;
   color: #d87c4bff;
 }
 </style>
