@@ -1,6 +1,13 @@
 ---
 title: "LinkTree"
 ---
+<style>
+body {
+  background: blue;
+}
+li {color:red;};
+</style>
+
 <div id="linktree">
 <h2>Test avec un div</h2>
 </div> 
