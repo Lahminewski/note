@@ -62,6 +62,8 @@ Lahminewski c'est moi. Coucou !!!
 * [Telegram](https://t.me/lahminewskiLab)
 * [Youtube](https://www.youtube.com/channel/UCZmTqaH_rHzGMmqvnW2eaTg)
 * [Instagram](https://www.instagram.com/lahminewski.lab/)
+<a rel="me" href="https://tooting.ch/@lahminewski"></a>
+
 
 ## Autres liens
 * [Scribouilli](https://lahminewski.github.io/note/)
