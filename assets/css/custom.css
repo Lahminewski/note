@@ -43,6 +43,7 @@ nav ul::before {
   content: "🐝";
   width: 25px;
 }
-.linktree {
+
+#inktree {
 background-color: blue ;
 }
