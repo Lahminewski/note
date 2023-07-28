@@ -37,7 +37,7 @@ main li a {
 
 main img {
 border-radius: 50%;
-  min-width: 250px;
+  max-width: 200px;
 }
 
 /* Change the link color on hover */
