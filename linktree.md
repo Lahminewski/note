@@ -6,6 +6,9 @@ body {
   background: black;
   text-align: center
 }
+header {
+    display: none;
+}
 main a {
   background-color: gray;
   padding: 15px;
@@ -20,7 +23,7 @@ main ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  min-width: 300px;
+  min-width: 350px;
   text-align: center
 }
 
@@ -34,6 +37,7 @@ main li a {
 
 main img {
 border-radius: 50%;
+  min-width: 250px;
 }
 
 /* Change the link color on hover */
@@ -52,5 +56,5 @@ Lahminewski c'est moi. Coucou !!!
 * [Telegram](https://t.me/lahminewskiLab)
 
 ## Autres liens
-[Scribouilli](https://lahminewski.github.io/note/)
-[Site web](https://lahminewski-lab.net/) 
+* [Scribouilli](https://lahminewski.github.io/note/)
+* [Site web 🐝](https://lahminewski-lab.net/) 
