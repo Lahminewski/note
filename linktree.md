@@ -21,7 +21,8 @@ main a {
 }
 main ul {
   list-style-type: none;
-  margin: 0;
+  display: inline-block;
+  margin: 15px;
   padding: 0;
   min-width: 350px;
   text-align: center
