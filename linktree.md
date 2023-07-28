@@ -2,23 +2,15 @@
 title: "LinkTree"
 ---
 <div id="linktree">
-## Réseaux sociaux
-[https://www.instagram.com/lahminewski.lab/](Instagram)
-[https://pixelfed.social/lahminewski.lab](Pixelfed)
-[t.me/lahminewskiLab](Telegram)
----
-## Autres liens
-[https://lahminewski.github.io/note/](Scribouilli)
-[https://lahminewski-lab.net/](Site web)
----
+<h2>Test avec un div</h2>
 </div> 
 
 ## Réseaux sociaux
-* [https://www.instagram.com/lahminewski.lab/](Instagram)
-* [https://pixelfed.social/lahminewski.lab](Pixelfed)
-* [t.me/lahminewskiLab](Telegram)
+* [Instagram](https://www.instagram.com/lahminewski.lab/)
+* [Pixelfed](https://pixelfed.social/lahminewski.lab)
+* [Telegram](t.me/lahminewskiLab)
 ---
 ## Autres liens
-* [https://lahminewski.github.io/note/](Scribouilli)
-* [https://lahminewski-lab.net/](Site web)
+* [Scribouilli](https://lahminewski.github.io/note/)
+* [Site web](https://lahminewski-lab.net/)
 --- 
