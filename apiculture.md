@@ -1,5 +1,5 @@
 ---
-title: Apiculture 
+title: "Apiculture"
 ---
 ## BEEP vs Beekube
 ### Remarque BEEP
@@ -11,7 +11,7 @@ title: Apiculture
 
 - Avoir un champ "à faire" ou "note" pour chaque rucher
 
-- Dans "paramètre" du rucher avoir un champ note pour écrire par exemple l'orientation, Nb de place, Numéro de rucher etc.
+- Dans "paramètre" du rucher, avoir un champ note pour écrire par exemple l'orientation, Nb de place, Numéro de rucher, etc.
 
 - Journaliser les ajouts, suppression de matériel avec date.
 
@@ -19,11 +19,11 @@ title: Apiculture
 ### Remarque Beekube
 
 - Possibilité de choisir les fonctions utiles dans le profil utilisateur et masque les autres. 
-  Par exemple : QR code, météo. Ça permettra d'alléger considérablement l'interface pour les personnes qui début et qui n'utilise pas toute les fonctions d'entrée de jeux.
+  Par exemple : QR code, météo. Ça permettra d'alléger considérablement l'interface pour les personnes qui début et qui n'utilise pas toutes les fonctions d'entrée de jeux.
 
 - Choix du pays et adaptation en conséquence (surtout les termes et document légaux)
 
-- Race de la raine par défaut dans le formulaire -> "Race d'abeille inconnue"
+- Race de la raine par défaut dans le formulaire → "Race d'abeille inconnue"
 - Possibilité de découpler la couleur du marquage et l'année. 
 - Avoir un champ "à faire" pour chaque ruche et/ou rucher
 
@@ -52,4 +52,4 @@ title: Apiculture
 
 ## Liens utiles
 
-[Liste d'inspection.canada.ca](https://inspection.canada.ca/sante-des-animaux/animaux-terrestres/biosecurite/normes-et-principes/guide-du-producteur-d-abeilles-domestiques-norme/fra/1378390483360/1378390541968?chap=0#c12)
+[Liste d'inspection.canada.ca](https://inspection.canada.ca/sante-des-animaux/animaux-terrestres/biosecurite/normes-et-principes/guide-du-producteur-d-abeilles-domestiques-norme/fra/1378390483360/1378390541968?chap=0#c12) 
