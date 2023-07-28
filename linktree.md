@@ -3,7 +3,6 @@ title: "LinkTree"
 ---
 <style>
 body {
-  background: black;
   text-align: center
 }
 header {
@@ -15,7 +14,7 @@ main a {
   margint: 15px;
   width: 80%;
   text-align: center;
-  border: 1px solid #fff;
+  border: 1px solid #d87c4bff;;
   border-radius: 16px;
   text-decoration: none;
 }
@@ -29,7 +28,7 @@ main ul {
 }
 
 main li a {
-  display: block;
+  display: inline-block;
   color: #000;
   padding: 16px;
   text-decoration: none;
@@ -44,7 +43,7 @@ border-radius: 50%;
 /* Change the link color on hover */
 main li a:hover {
   background-color: #555;
-  color: white;
+  color: #d87c4bff;
 }
 </style>
 
