@@ -9,14 +9,14 @@ header, H1 {
     display: none;
 }
 main a {
-  background-color: #777;
+  background-color: #888;
   padding: 15px;
   margint: 15px;
   width: 80%;
   text-align: center;
   border: 1px solid #d87c4bff;;
   border-radius: 16px;
-  text-decoration: none;
+  text-decoration: none
 }
 main ul {
   list-style-type: none;
@@ -35,7 +35,7 @@ main li a {
   padding: 16px;
   text-decoration: none;
   text-align: center;
-  text-decoration: none;
+  text-decoration: none
 }
 
 main img {
@@ -43,7 +43,7 @@ main img {
   max-width: 250px;
   display: block;
   margin-left: auto;
-  margin-right: auto }
+  margin-right: auto
 }
 
 /* Change the link color on hover */
@@ -62,7 +62,7 @@ Lahminewski c'est moi. Coucou !!!
 * [Telegram](https://t.me/lahminewskiLab)
 * [Youtube](https://www.youtube.com/channel/UCZmTqaH_rHzGMmqvnW2eaTg)
 * [Instagram](https://www.instagram.com/lahminewski.lab/)
-<a rel="me" href="https://tooting.ch/@lahminewski"></a>
+<li><a rel="me" href="https://tooting.ch/@lahminewski"></a>tooting.ch</li>li
 
 
 ## Autres liens
