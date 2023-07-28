@@ -5,7 +5,7 @@ title: "LinkTree"
 body {
   background: blue;
 }
-a {
+main a {
   background-color: gray;
   padding: 15px;
   margint: 15px;
@@ -25,5 +25,5 @@ a {
 * [Telegram](https://t.me/lahminewskiLab)
 
 ## Autres liens
-* [Scribouilli](https://lahminewski.github.io/note/)
-* [Site web](https://lahminewski-lab.net/) 
+[Scribouilli](https://lahminewski.github.io/note/)
+[Site web](https://lahminewski-lab.net/) 
