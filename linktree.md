@@ -6,9 +6,12 @@ body {
   background: blue;
 }
 a {
-  background-color: red;
+  background-color: gray;
   padding: 15px;
   margint: 15px;
+  width: 80%;
+  text-align: center;
+  border: 3px solid #fff;
 }
 </style>
 
