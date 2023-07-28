@@ -9,8 +9,7 @@ title: "LinkTree"
 * [Instagram](https://www.instagram.com/lahminewski.lab/)
 * [Pixelfed](https://pixelfed.social/lahminewski.lab)
 * [Telegram](t.me/lahminewskiLab)
----
+
 ## Autres liens
 * [Scribouilli](https://lahminewski.github.io/note/)
-* [Site web](https://lahminewski-lab.net/)
---- 
+* [Site web](https://lahminewski-lab.net/) 
