@@ -3,7 +3,8 @@ title: "LinkTree"
 ---
 <style>
 body {
-  background: blue;
+  background: black;
+  text-align: center
 }
 main a {
   background-color: gray;
@@ -13,12 +14,13 @@ main a {
   text-align: center;
   border: 1px solid #fff;
   border-radius: 16px;
+  text-decoration: none;
 }
 main ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 200px;
+  min-width: 300px;
 }
 
 main li a {
