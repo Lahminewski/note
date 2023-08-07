@@ -60,16 +60,21 @@ Je suis photographe et graphiste autodidacte. Ce que je cherche, c'est l’expé
 
 😁 ⚒️ 📷 ☧ 🎸 🐝 🇨🇩🌑
 
-## Réseaux sociaux
+## Lahminewski Lab
 * [[matrix]](https://matrix.to/#/#Lahminewski-lab:matrix.org)
 * [Pixelfed](https://pixelfed.social/lahminewski.lab)
-* [tooting.ch](https://tooting.ch/@lahminewski)
 * [Telegram](https://t.me/lahminewskiLab)
 * [Youtube](https://www.youtube.com/channel/UCZmTqaH_rHzGMmqvnW2eaTg)
 * [Instagram](https://www.instagram.com/lahminewski.lab/)
 
-
-## Autres liens
-* [Scribouilli](https://lahminewski.github.io/note/)
 * [Site web 🐝](https://lahminewski-lab.net/)
 * [Wikimedia](http://commons.wikimedia.org/wiki/User:Lahminewski_Lab)
+
+## Perso
+* [[matrix]](https://matrix.to/#/@lahminewski:matrix.org)
+* [![Fediverse_logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fediverse_logo_proposal_(mono_version).svg/30px-Fediverse_logo_proposal_(mono_version).svg.png) @lahminewski@tooting.ch](https://tooting.ch/@lahminewski) 
+* [Scribouilli](https://lahminewski.github.io/note/)
+
+
+
+
