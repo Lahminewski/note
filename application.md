@@ -23,3 +23,16 @@ in_menu: true
       </div>
     </div>
   </article> 
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Element.io%20(ex%20Riot.im).png">
+    </div>
+    <div>
+      <h2>Element (ex Riot)</h2>
+      <p>Element rassemble toutes vos conversations et intégrations applicatives en une seule application.</p>
+      <div>
+        <a href="https://framalibre.org/notices/element-ex-riot.html">Vers la notice Framalibre</a>
+        <a href="https://element.io">Vers le site</a>
+      </div>
+    </div>
+  </article> 
