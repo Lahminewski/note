@@ -23,6 +23,7 @@ in_menu: true
       </div>
     </div>
   </article> 
+
   <article class="framalibre-notice">
     <div>
       <img src="https://framalibre.org/images/logo/Element.io%20(ex%20Riot.im).png">
@@ -33,6 +34,21 @@ in_menu: true
       <div>
         <a href="https://framalibre.org/notices/element-ex-riot.html">Vers la notice Framalibre</a>
         <a href="https://element.io">Vers le site</a>
+      </div>
+    </div>
+  </article> 
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Scribouilli.png">
+    </div>
+    <div>
+      <h2>Scribouilli</h2>
+      <p>Créer votre petit site facilement !</p>
+      <div>
+        <a href="https://framalibre.org/notices/scribouilli.html">Vers la notice Framalibre</a>
+        <a href="https://scribouilli.org/">Vers le site</a>
       </div>
     </div>
   </article> 
