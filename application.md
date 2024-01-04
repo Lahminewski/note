@@ -52,3 +52,18 @@ in_menu: true
       </div>
     </div>
   </article> 
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Ardour.png">
+    </div>
+    <div>
+      <h2>Ardour</h2>
+      <p>La station audio-numérique libre de référence, pour dire au revoir à Cubase et Pro Tools !</p>
+      <div>
+        <a href="https://framalibre.org/notices/ardour.html">Vers la notice Framalibre</a>
+        <a href="https://ardour.org/">Vers le site</a>
+      </div>
+    </div>
+  </article> 
