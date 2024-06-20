@@ -1,5 +1,7 @@
 ---
 title: "Apiculture"
+order: 1
+in_menu: true
 ---
 ## BEEP vs Beekube
 ### Remarque BEEP

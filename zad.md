@@ -1,5 +1,7 @@
 ---
 title: "ZAD"
+order: 1
+in_menu: true
 ---
 ## ZAD, un endroit où respirer
 _Ce texte a été écrit après l'évacuation de la [ZAD de la colline du Mormont](https://fr.wikipedia.org/wiki/ZAD_de_la_colline_du_Mormont)._

@@ -1,5 +1,7 @@
 ---
-title: Podcast
+title: "Podcast"
+order: 1
+in_menu: true
 ---
 ## Podcast 🎙️
 

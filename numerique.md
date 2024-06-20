@@ -1,5 +1,7 @@
 ---
-title: Numerique
+title: "Numerique"
+order: 1
+in_menu: true
 ---
 ## Objectif numérique
 

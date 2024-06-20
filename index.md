@@ -1,5 +1,7 @@
 ---
-title: Accueil
+title: "Accueil"
+order: 1
+in_menu: true
 ---
 ## Intro
 Voilà ce petit bout de site est plus un carnet de note en tout genre qu'un vrai truc construit. 
